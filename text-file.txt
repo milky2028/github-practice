@@ -1,1 +1,1 @@
-This is just an empty text file that you can practice editing in. Git and GitHub can track text files just like it can track changes to code (which are just special text files anyways).
+Branch changes!
